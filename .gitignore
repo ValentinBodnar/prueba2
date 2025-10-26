@@ -1,0 +1,3 @@
+#quiero ignorar todos los archivos que sean pdf
+#ignorar cualquier pdf
+*.pdf
