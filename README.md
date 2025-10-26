@@ -1,2 +1,6 @@
 # prueba2
-es la prueba 2
+prueba 2
+
+pendientes:
+- agregar un .gitignore
+- agregar nuevos ejemplos en el repositorio
